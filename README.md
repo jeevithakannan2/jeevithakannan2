@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm from TamilNadu, India<br><br>- 🔭 I’m a student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology<br>- 📚 I'm currently learning Shell Scripting</p>
+<p align="left">I'm from TamilNadu, India<br><br>- 🔭 I’m a student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology<br>- 📚 I'm currently learning Rust</p>
 
 ###
 
