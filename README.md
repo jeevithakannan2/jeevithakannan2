@@ -18,8 +18,6 @@
 
 ### 👩‍💻  About Me
 
-###
-
 - 📍 From TamilNadu, India
 - 🔭 Student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology
 - 📚 Currently learning Rust 🦀
