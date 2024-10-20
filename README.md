@@ -24,7 +24,7 @@
 
 ### 🛠 Language and tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,python,rust,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,python,rust)](https://skillicons.dev)
 
 <!--
 ###
