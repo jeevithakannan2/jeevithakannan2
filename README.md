@@ -16,31 +16,18 @@
 ###
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👩‍💻  About Me
 
 ###
 
-<p align="left">I'm from TamilNadu, India<br><br>- 🔭 I’m a student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology<br>- 📚 I'm currently learning Rust</p>
+- 📍 From TamilNadu, India
+- 🔭 Student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology
+- 📚 Currently learning Rust 🦀
 
-###
+### 🛠 Language and tools
 
-<h3 align="left">🛠 Language and tools</h3>
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,python,rust,&theme=dark)](https://skillicons.dev)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
 <!--
 ###
 
