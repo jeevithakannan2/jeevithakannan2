@@ -23,8 +23,7 @@
 - 📚 Currently learning Rust 🦀
 
 ### 🛠 Language and tools
-
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,python,rust)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,c,python,rust&titles=true)
 
 <!--
 ###
