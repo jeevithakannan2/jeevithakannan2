@@ -14,13 +14,12 @@
 </div>
 
 ###
-###
 
 ### 👩‍💻  About Me
 
-- 📍 From TamilNadu, India
-- 🔭 Student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology
-- 📚 Currently learning Rust 🦀
+- 📍 TamilNadu, India
+- 🔭 Student pursuing B.Tech Information Technology
+- 📚 Learning Rust 🦀
 
 ### 🛠 Language and tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,c,python,rust&titles=true)
